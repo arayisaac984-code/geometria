@@ -40,7 +40,7 @@ def menu():
             print("\n[!] Pantalla limpia.")
         elif opcion == "5":
             print("¡Hasta luego!")
-            turtle.bye() # Cierra la ventana de dibujo
+            turtle.bye() # lugo else
             break
         else:
             print("Opción no válida, intenta de nuevo.")
